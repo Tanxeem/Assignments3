@@ -12,6 +12,10 @@ main {
 .container2 {
     margin: 20px;
 }
+
+img {
+    border-radius: 10%;
+}
 .one {
     height: 400px;
     width: 400px;
@@ -48,6 +52,7 @@ video {
 }
 iframe {
     display: inline-block;
+    margin-top: 50px;
     margin-right: 100px;
 }
 form {
