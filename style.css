@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main {
+    display: flex;
+}
+.container1 {
+    margin: 20px;
+}
+.container2 {
+    margin: 20px;
+}
+.one {
+    height: 400px;
+    width: 400px;
+}
+
+.two {
+    height: 500px;
+    width: 400px;
+}
+.three {
+    height: 500px;
+    width: 400px;
+}
+.four {
+    height: 500px;
+    width: 600px;
+}
+.five {
+    height: 400px;
+    width: 400px;
+}
+.six {
+    height: 400px;
+    width: 600px;
+}
+.saven {
+    height: 700px;
+    width: 900px;
+}
+
+video {
+    height: 600px;
+    width: 600px;
+}
+iframe {
+    display: inline-block;
+    margin-right: 100px;
+}
+form {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 10px;
+}
